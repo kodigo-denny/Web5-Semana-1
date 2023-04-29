@@ -1,0 +1,15 @@
+p{
+    color: red;
+}
+
+h1{
+    color: yellow;
+}
+
+h1 div{
+    color: green;
+}
+
+h1 div div{
+    color: gray;
+}
